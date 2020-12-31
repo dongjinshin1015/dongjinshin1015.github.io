@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DJ | Portfolio</title>
+    <link>https://dongjinshin1015.github.io/category/dj/</link>
+      <atom:link href="https://dongjinshin1015.github.io/category/dj/index.xml" rel="self" type="application/rss+xml" />
+    <description>DJ</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dongjinshin1015.github.io/images/icon_hue6a4cf394799e32482b9d467e2ed1cff_29893_512x512_fill_lanczos_center_2.png</url>
+      <title>DJ</title>
+      <link>https://dongjinshin1015.github.io/category/dj/</link>
+    </image>
+    
+    <item>
+      <title>Multivariate Statistical Analysis</title>
+      <link>https://dongjinshin1015.github.io/post/a/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://dongjinshin1015.github.io/post/a/</guid>
+      <description>&lt;h3 id=&#34;this-is&#34;&gt;this is&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
