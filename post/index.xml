@@ -5,7 +5,7 @@
     <link>https://dongjinshin1015.github.io/post/</link>
       <atom:link href="https://dongjinshin1015.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dongjinshin1015.github.io/images/icon_hue6a4cf394799e32482b9d467e2ed1cff_29893_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,7 +13,67 @@
     </image>
     
     <item>
-      <title>Multivariate Statistical Analysis</title>
+      <title>Memoir of 2020</title>
+      <link>https://dongjinshin1015.github.io/post/2020/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dongjinshin1015.github.io/post/2020/</guid>
+      <description>&lt;p&gt;안녕하세요. 신동진 입니다.&lt;/p&gt;
+&lt;p&gt;2년 간의 관악 생활을 마무리하면서 2020년도 회고록을 작성해보았습니다. 2020년은 코로나 바이러스 때문에 모두가 힘든 한 해였다고 생각합니다. 저도 처음에 적응하기 힘들었는데, 주변의 좋은 사람들 덕분에 한 해를 잘 마무리할 수 있었던 것 같습니다. 이제는 연건으로 다시 거처를 옮기며 의학과 생활을 처음 시작하게 되는데, 잘 적응할 수 있기를 바라고 있습니다.&lt;/p&gt;
+&lt;h3 id=&#34;대학교-수업&#34;&gt;대학교 수업&lt;/h3&gt;
+&lt;p&gt;2020년은 수학 및 통계 과목 위주로 수업을 들었고 &lt;strong&gt;통계학과 복수전공&lt;/strong&gt;에 지원하여 합격하였습니다. 두 과목 차이로 아쉽게 통계학과 수료는 못하고 관악을 떠나게 되었지만 2020년에만 전공 27학점을 들으면서 많은 것을 배울 수 있었습니다.&lt;/p&gt;
+
+&lt;div class=&#34;expand&#34;&gt;
+    &lt;div class=&#34;expand-label&#34; style=&#34;cursor: pointer;&#34; onclick=&#34;$h = $(this);$h.next(&#39;div&#39;).slideToggle(100,function () {$h.children(&#39;i&#39;).attr(&#39;class&#39;,function () {return $h.next(&#39;div&#39;).is(&#39;:visible&#39;) ? &#39;fas fa-chevron-down&#39; : &#39;fas fa-chevron-right&#39;;});});&#34;&gt;
+        &lt;i style=&#34;font-size:x-small;&#34; class=&#34;fas fa-chevron-right&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;
+        
+    	
+    	해석개론 1   ...더보기
+    	
+    	&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;expand-content&#34; style=&#34;display: none;&#34;&gt;
+        &lt;strong&gt;해석개론 1&lt;/strong&gt;&lt;br&gt;해석개론1은 홍세찬과 함께 수강하였습니다. 어려웠습니다.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;h5 id=&#34;해석개론-1&#34;&gt;해석개론 1&lt;/h5&gt;
+&lt;h5 id=&#34;선형대수학-1&#34;&gt;선형대수학 1&lt;/h5&gt;
+&lt;p&gt;이재훈 이상준&lt;/p&gt;
+&lt;h5 id=&#34;미분방정식-1&#34;&gt;미분방정식 1&lt;/h5&gt;
+&lt;h5 id=&#34;확률의-개념-및-응용&#34;&gt;확률의 개념 및 응용&lt;/h5&gt;
+&lt;h5 id=&#34;회귀분석-및-실습&#34;&gt;회귀분석 및 실습&lt;/h5&gt;
+&lt;h5 id=&#34;실험계획-및-실습&#34;&gt;실험계획 및 실습&lt;/h5&gt;
+&lt;h5 id=&#34;수리통계-1&#34;&gt;수리통계 1&lt;/h5&gt;
+&lt;p&gt;지인혁 형, 고영현 형&lt;/p&gt;
+&lt;h5 id=&#34;수리통계-2&#34;&gt;수리통계 2&lt;/h5&gt;
+&lt;p&gt;고영현 형&lt;/p&gt;
+&lt;h5 id=&#34;다변량-분석-및-실습&#34;&gt;다변량 분석 및 실습&lt;/h5&gt;
+&lt;p&gt;정민서, 강민찬 형&lt;/p&gt;
+&lt;h5 id=&#34;의학연구&#34;&gt;의학연구&lt;/h5&gt;
+&lt;h5 id=&#34;자유주제탐구&#34;&gt;자유주제탐구&lt;/h5&gt;
+&lt;h5 id=&#34;거시경제학&#34;&gt;거시경제학&lt;/h5&gt;
+&lt;h5 id=&#34;초급한문&#34;&gt;초급한문&lt;/h5&gt;
+&lt;h3 id=&#34;연구&#34;&gt;연구&lt;/h3&gt;
+&lt;p&gt;2019년 여름부터 보라매병원 신장내과의 이정표 교수님 랩에서 학부생 인턴으로 연구에 참여하게 되었습니다.&lt;/p&gt;
+&lt;h5 id=&#34;tnfr&#34;&gt;TNFR&lt;/h5&gt;
+&lt;h5 id=&#34;rna-methylation&#34;&gt;RNA methylation&lt;/h5&gt;
+&lt;h3 id=&#34;대회-참가-경험&#34;&gt;대회 참가 경험&lt;/h3&gt;
+&lt;h5 id=&#34;미래에셋대우-주식보험-예측-대회&#34;&gt;미래에셋대우 주식/보험 예측 대회&lt;/h5&gt;
+&lt;p&gt;류시모, 권성현&lt;/p&gt;
+&lt;h5 id=&#34;snuh-medical-ai-challenge&#34;&gt;SNUH Medical AI Challenge&lt;/h5&gt;
+&lt;p&gt;최수호 고등학교 후배의 제안으로 서울대학교 주최 의료인공지능 대회에 함께 참가하게 되었습니다. 본 대회는 VitalDB를 기반으로 하여 20초 길이의 요골 동맥압 파형 데이터를 가지고 환자의 저혈압 상태를 5분 전에 예측하는 것이 목표입니다. 팀은 저와 최수호, 구본아 형, 신우석 형, 김정민 교수님 (연세대학교 마취과)으로 구성되었습니다.&lt;/p&gt;
+&lt;h3 id=&#34;일상&#34;&gt;일상&lt;/h3&gt;
+&lt;h5 id=&#34;운동&#34;&gt;운동&lt;/h5&gt;
+&lt;p&gt;황건하 형, 최현웅, 박시훈, 홍세찬, 이재현, 도관주&lt;/p&gt;
+&lt;h5 id=&#34;시사&#34;&gt;시사&lt;/h5&gt;
+&lt;p&gt;코로나, 4.15 총선, 미국 대선, 공공의대 설립, 검찰 개혁, 부동산 규제, 위안부 논란, 서울시장 자살, 기업 3법&lt;/p&gt;
+&lt;h5 id=&#34;투자&#34;&gt;투자&lt;/h5&gt;
+&lt;p&gt;설곽투자톡방, 현명한 투자자, 월가의 영웅, 거시경제학, 부자아빠 가난한 아빠&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>snulifes</title>
       <link>https://dongjinshin1015.github.io/post/rl_1/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://dongjinshin1015.github.io/post/rl_1/</guid>
